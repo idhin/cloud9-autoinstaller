@@ -26,7 +26,7 @@ sudo ./install_cloud9.sh
 ## 📁 Struktur Direktori Default
 
 - Cloud9 SDK akan di-install di: `/home/c9sdk`
-- Workspace (folder kerja project): `/home/sender`
+- Workspace (folder kerja project): `/home/cloud9ku`
 
 Jika ingin mengganti path default:
 
@@ -34,7 +34,7 @@ Jika ingin mengganti path default:
 
 ```bash
 C9_DIR="/home/c9sdk"
-WORKSPACE_DIR="/home/sender"
+WORKSPACE_DIR="/home/cloud9ku"
 ```
 
 ---
