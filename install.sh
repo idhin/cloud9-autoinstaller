@@ -4,9 +4,9 @@ set -e
 
 # === Konfigurasi ===
 C9_DIR="/home/c9sdk"
-WORKSPACE_DIR="/home/sender"
+WORKSPACE_DIR="/home/cloud9ku"
 C9_PORT=8080
-C9_USER="sender"
+C9_USER="root"
 AUTH="username:password" #ganti username dan pass ini
 
 if [ "$(id -u)" -ne 0 ]; then
