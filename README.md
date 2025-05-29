@@ -1,5 +1,9 @@
 # 📦 Cloud9 Installer - Otomatisasi Pasang & Jalankan Cloud9 IDE di Ubuntu
 
+```bash
+tested on ubuntu 22
+```
+
 Script ini akan:
 
 - Install dependency
